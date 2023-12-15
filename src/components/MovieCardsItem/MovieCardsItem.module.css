@@ -1,0 +1,30 @@
+.item {
+  max-width: 220px;
+  list-style: none;
+  border-style: solid;
+  border-color: white;
+  border-radius: 15px;
+  width: 200px;
+  height: 330px;
+  overflow: hidden;
+}
+.link {
+  text-decoration: none;
+}
+
+.image {
+  display: block;
+  width: 200px;
+  height: 280px;
+}
+
+.title {
+  text-align: center;
+  margin-top: 10px;
+  color: white;
+  padding: 0px 10px 10px 10px;
+  width: 180px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

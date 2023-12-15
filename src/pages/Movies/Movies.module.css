@@ -1,0 +1,16 @@
+.main {
+  background-color: black;
+  height: 100%;
+  text-align: center;
+}
+
+.titlePage {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.noFoud {
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.input {
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+  padding: 10px;
+  border-radius: 15px;
+}
+.button {
+  display: inline-block;
+  width: 200px;
+  height: 54px;
+  padding: 5px;
+  border-radius: 15px;
+  margin-left: 20px;
+}
